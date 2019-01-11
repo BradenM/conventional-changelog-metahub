@@ -22,7 +22,7 @@
     "nyc": "^13.1.0",
     "p-each-series": "^1.0.0",
     "proxyquire": "^2.0.0",
-    "semantic-release": "^15.0.0",
+    "semantic-release": "^15.13.3",
     "stringz": "^1.0.0",
     "tempy": "^0.2.0",
     "xo": "^0.23.0"
