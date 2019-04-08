@@ -101,7 +101,7 @@ module.exports = {
       description: "Other changes that don't modify src or test files",
       title: "Chores",
       emoji: "♻️",
-      changelog: true,
+      changelog: false,
       release: false,
       aliases: {
         devDependencies: {
